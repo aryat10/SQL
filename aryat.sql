@@ -11,12 +11,12 @@ create table aryat(
 insert into aryat 
 (name,rollno,section,year,city)
 value
-("dheemant",101,"a",3,"lucknow"),
-("insaan",102,"b",3,"india"),
-("kalesh",103,"c",3,"jaunpur"),
-("aryat",104,"d",3,"nagpur"),
-("aradhya",105,"a",3,"sitapur"),
-("nandini",106,"b",3,"sitapur"),
-("aryan",107,"a",3,"muradnagar");
+("Dheemant",101,"a",3,"lucknow"),
+("Ishan",102,"b",3,"india"),
+("Amit",103,"c",3,"jaunpur"),
+("Aryat",104,"d",3,"nagpur"),
+("Aradhya",105,"a",3,"sitapur"),
+("Nandini",106,"b",3,"sitapur"),
+("Aryan",107,"a",3,"muradnagar");
 
 select*from aryat;
